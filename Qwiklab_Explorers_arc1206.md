@@ -1,4 +1,4 @@
-#  Arcade Hero: Building Blocks Firestore I || [arc1206](https://www.cloudskillsboost.google/focuses/115688?parent=catalog) ||
+#  Arcade Hero: Building Blocks Firestore I || [arc1206](https://www.cloudskillsboost.google/focuses/115689?parent=catalog) ||
 
 ## # Like, comment, share & Don't forget to subscribe [QwikLab Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
@@ -10,14 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-export ZONE=
-```
-```
-curl -LO raw.githubusercontent.com/Titash-shil/Arcade-Hero-Building-Blocks-Cloud-Run-I-arc1205/refs/heads/main/qwiklab_explorers_arc1205.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Arcade-Hero-Building-Blocks-Firestore-I-arc1206/refs/heads/main/qwiklab_explorers_arc1206.sh
 
-sudo chmod +x qwiklab_explorers_arc1205.sh
+sudo chmod +x qwiklab_explorers_arc1206.sh
 
-./qwiklab_explorers_arc1205.sh
+./qwiklab_explorers_arc1206.sh
 ```
 
 ---
